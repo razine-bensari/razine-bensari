@@ -3,7 +3,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Linkedin Badge](https://img.shields.io/badge/-razine-bensari-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razine-bensari/)](https://www.linkedin.com/in/razine-bensari/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Razine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razine-bensari/)](https://www.linkedin.com/in/razine-bensari/)
 
 I am Razine Ahmed Bensari 😃. I am from Montreal, Canada and currently in my last year of Software Engineering at Concordia University. I love to play soccer, eat my mom's food and learn about software architecture.
 ## ⚡ Technologies
