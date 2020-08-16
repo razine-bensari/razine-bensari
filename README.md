@@ -17,8 +17,6 @@ Talk to me about
 - 🎯 Portfolio site: [Portfolio](https://razine-bensari.github.io/)
 - ⚡ Fun fact: The QWERTY keyboard was designed to slow you down. If you want to type faster, try the Dvorak Keyboard.
 
-![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=razine-bensari&hide=["issues"]&show_icons=true)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=razine-bensari.razine-bensari)
+![Razine's github stats](https://github-readme-stats.vercel.app/api?username=razine-bensari&hide=["issues"]&show_icons=true)
 
 ```⭐️ From [razine-bensari](https://github.com/razine-bensari)```
