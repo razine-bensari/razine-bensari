@@ -5,16 +5,15 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Razine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razine-bensari/)](https://www.linkedin.com/in/razine-bensari/)
 
-I am Razine Ahmed Bensari 😃. I am from Montreal, Canada and currently in my last year of Software Engineering at Concordia University and working full time at [CloudOps](https://www.cloudops.com/blog/life-at-cloudops/). I love to play soccer, eat my mom's food, learn about the latest software architecture novelties and solve mathematical puzzles.
+I am Razine Ahmed Bensari 😃. I am from Montreal, Canada and just finished Software Engineering at Concordia University and working full time at [CloudOps](https://www.cloudops.com/blog/life-at-cloudops/). I love to play soccer, eat my mom's food, learn about the latest software architecture novelties and solve mathematical puzzles.
 ## ⚡ Technologies
 Talk to me about
-- Backend development using **Spring, Go, Spock, Docker, Architecture, Distributed Systems**
+- Backend development using **Spring, Go, Spock, Docker, Design Patterns, Software Architecture, Distributed Systems**
 - Robust full-stack system design implementation
 - Creating scalable cloud architecture using **ANY Cloud**
 - Solving Data structure and algorithm questions in **Java and Go**
 ## Hello World!! 🤔
-- 💬 Ask me about anything and everything.
-- 🎯 Portfolio site: [Portfolio](https://razine-bensari.github.io/)
+- 🎯 Portfolio site: [Portfolio](https://razine-bensari.github.io/) (still a work in progress)
 - ⚡ Fun fact: The QWERTY keyboard was designed to slow you down. If you want to type faster, try the Dvorak Keyboard.
 
 ![Razine's github stats](https://github-readme-stats.vercel.app/api?username=razine-bensari&hide=["issues"]&show_icons=true)
