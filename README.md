@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Razine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/razine-bensari/)](https://www.linkedin.com/in/razine-bensari/)
 
-I am Razine Ahmed Bensari 😃. I am from Montreal, Canada and recently graduated Software Engineering at Concordia University. I am working full time at [CloudOps](https://www.cloudops.com/blog/life-at-cloudops/). I love to play soccer, eat different cuisine and discuss about software architecture, clean code and cloud
+I am Razine Ahmed Bensari 😃. I am from Montreal, Canada, I am working full time at [CloudOps](https://www.cloudops.com/blog/life-at-cloudops/). I love to play sports, eat different cuisine and discuss about software architecture, clean code and cloud
 ## ⚡ Technologies
 Talk to me about
 - Backend development using **Spring, Go, Spock, Docker, Design Patterns, Software Architecture, Distributed Systems**
